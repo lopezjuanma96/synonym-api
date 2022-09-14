@@ -1,5 +1,5 @@
 import { Controller, Get, Param, Query } from '@nestjs/common';
-import { SynomJSON } from 'src/types/SynomJSON.interface';
+import { SynomJSON } from '../types/SynomJSON.interface';
 import { WordreferenceService } from './wordreference.service';
 
 @Controller('wordreference')

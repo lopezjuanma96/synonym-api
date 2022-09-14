@@ -1,0 +1,3 @@
+https://www.tomray.dev/deploy-nestjs-cloud-run -> to deploy app to heroku with github
+https://circleci.com/blog/continuous-deployment-nestjs -> to deploy to heroku with circle ci
+https://firebase.google.com/docs/hosting/github-integration -> to deploy app to firebase with github
